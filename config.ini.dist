@@ -1,0 +1,8 @@
+[api]
+apikey = YOURSUPERSECRETAPIKEY
+host = 192.168.0.10
+step = 30
+# default value
+port = 80
+[buttons]
+bounceTime = 0.2
