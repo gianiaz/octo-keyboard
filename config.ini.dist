@@ -6,3 +6,57 @@ step = 30
 port = 80
 [buttons]
 bounceTime = 0.2
+
+[buttons]
+bounceTime = 0.2
+
+[relay]
+printer = 38
+light = 40
+
+[buttonKeyboard]
+## RIGA 1
+# button 1 
+power = 8
+# button 2 
+forwardYPlate = 10
+# button 3 
+upZ = 33 
+# button 4
+retract = 35
+# button 5
+unloadFilament = 18
+
+## RIGA 2
+# button 6
+leftXPlate = 32
+# button 7
+homePlate = 29
+# button 8
+rightXPlate = 19
+# button 9
+homeZ = 23
+# button 10
+disableSteppers = 21
+
+## RIGA 3
+# button 11
+light = 36
+# button 12
+backwardYPlate = 24
+# button 13
+downZ = 31
+# button 14
+extrude = 37
+# button 15
+loadFilament = 16
+
+#Pulsantiera LCD
+# button 16
+plus = 38
+# button 17
+setLCD = 15
+# button 19
+cancelLCD = 7
+# button 20
+minus = 11
